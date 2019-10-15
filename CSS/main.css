@@ -16,9 +16,6 @@ img {
 }
 
 
-/* ul {
-    list-style: none;
-} */
 .wrapper { 
     display: grid;
     border: 10 px solid line black;
@@ -26,24 +23,7 @@ img {
     max-width: 70rem;
     width: 90%;
 }
- /* .projects {
-     display: grid; 
-     grid-template-rows: auto auto; 
-     background-color: white;
-    border: 10 px solid line black;
-    padding: 35px;
-    text-align: center;
-    text-decoration-color: white;
-    } */
-/* 
-h4{
-    padding: 35px;
-} */
 
-/* body {
-   background-image:url("https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?cs=srgb&dl=bright-design-floor-235994.jpg&fm=jpg");
-
-} */
 
 .projects{
     display: grid;
@@ -57,15 +37,6 @@ h4{
     text-emphasis-color: white;
     background-color: lightgray;
 }
-/* h3{ 
-    display: grid;
-    border: 10 px solid black;
-    padding: 50 px; 
-    grid-gap: 30px;
-    align-items: 30px;
-    align-items: left;
-    grid-template-rows:auto auto;
-} */
 
 
 
